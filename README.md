@@ -10,8 +10,6 @@ This project is served only to redirect old URLs (at blog.phuctm97.com) to new U
 [![Website][website badge]][my website]
 [![Twitter][twitter badge]][my twitter]
 
-🔗 [Check out my website][my website] at [phuctm97.com][my website].
-
 <!-- Badges -->
 
 [deployment status]: https://img.shields.io/github/deployments/phuctm97/blog.phuctm97.com/production?label=deployment&logo=Vercel
